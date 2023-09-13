@@ -10,7 +10,7 @@ permalink: /limitacoes
 ##### Navegação
 
 - [Voltar ao início](./)
-- [How To](./how-to)
+- [Tutorial](./tutorial)
 
 ---
 

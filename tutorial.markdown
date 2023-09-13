@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "How To"
-permalink: /how-to
+title: "Tutorial"
+permalink: /tutorial
 ---
 
 ##### Navegação
@@ -14,7 +14,7 @@ permalink: /how-to
 
 ---
 
-## HOW TO
+## Passo a passo
 
 ##### Vamos simular um projeto para exemplo de integração:
 1. Crie uma Collection no Postman com todos os endpoints passados pelo cliente;

@@ -9,7 +9,7 @@ permalink: /
 
 ##### Navegação
 
-- [How To](./how-to)
+- [Tutorial](./tutorial)
 - [Limitações](./limitacoes)
 
 ---
